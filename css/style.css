@@ -1,5 +1,5 @@
 h1 {
-    color: red;
+    color: black;
     font-size: 24px;
 }
 
@@ -35,17 +35,17 @@ h1 {
     cursor: auto;
 }
 
-#print{
+#print {
     font-family: Geneva;
+
     color: red;
     font-size: 24px;
-
 }
 
-#main{
+#main {
     text-align: center;
 }
 
 body {
-    background-color: burlywood;
+    background-color: #6C8CD5;
 }
